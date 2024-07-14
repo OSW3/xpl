@@ -22,7 +22,8 @@ Explode string and trim both.
     see [https://www.php.net/manual/en/function.explode.php](https://www.php.net/manual/en/function.explode.php)
 
 ## Return values
-    Returns an array of trim strings created by splitting the string parameter on boundaries formed by the separator.
+
+Returns an array of trim strings created by splitting the string parameter on boundaries formed by the separator.
 
 ## Examples
 
