@@ -1,0 +1,24 @@
+{
+    "name": "osw3/xpl",
+    "description": "eXtended PHP Library",
+    "homepage": "https://osw3.net",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "authors": [
+		{
+			"name": "Project Contributors",
+			"homepage": "https://github.com/osw3/xpl/graphs/contributors"
+		}
+    ],
+    "autoload": {
+        "files": [
+            "src/functions.php"
+        ],
+        "psr-4": {
+            "XPL\\": "src/"
+        }
+    },
+    "require": {}
+}
