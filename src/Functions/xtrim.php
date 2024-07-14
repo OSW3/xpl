@@ -3,8 +3,6 @@
 if (!function_exists('xtrim'))
 {
     /**
-     * xtrim
-     * --
      * Split a string in trimed segments
      * 
      * xtrim(string $delimiter, string $string, int $limit = PHP_INT_MAX)

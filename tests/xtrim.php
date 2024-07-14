@@ -3,7 +3,6 @@
 require_once __DIR__ . '/../vendor/autoload.php';
 
 $string = "Bananas,    Apples     ,    Coconuts";
-
 ?>
 
 <h2>Original string</h2>

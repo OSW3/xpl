@@ -3,8 +3,6 @@
 if (!function_exists('redirect'))
 {
     /**
-     * redirect
-     * --
      * Set Headers location and exit the script.
      * 
      * redirect(string $destination[, bool $exit = true])
